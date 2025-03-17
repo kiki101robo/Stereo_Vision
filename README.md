@@ -41,6 +41,11 @@ Adjust the paths in the script to match your directory structure.
 
 ## Output
 The script generates and saves disparity maps and depth maps as visual outputs, providing both heat map and grayscale visualizations.
+![Stereo_Vision](https://github.com/user-attachments/assets/822d9a32-ce2e-4d8f-b79f-737bad309d9a)
+![Stereo_Vision1](https://github.com/user-attachments/assets/f1a62b38-947a-46b9-ae27-cf4432d63050)
+![Stereo_Vision2](https://github.com/user-attachments/assets/d2d94d27-c4d2-4ae6-bbd6-984c8667991f)
+
+
 
 ## Libraries Required
 - OpenCV
